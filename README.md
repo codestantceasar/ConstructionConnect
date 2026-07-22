@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # construction_connect
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ConstructionConnect
+>>>>>>> b7532eb25d0338b857960a52f3985d890e5509c9
